@@ -1,0 +1,24 @@
+.yellow{
+	background-color: #FFBF00;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+	
+}
+
+.grey{
+	background-color: grey;
+	padding-bottom: 3em;
+	width: 200px;
+	height: 100px;
+	
+	
+}
+
+h4, h5{
+	padding: 0.4em;
+}
+
+h5{
+	color: white;
+}
